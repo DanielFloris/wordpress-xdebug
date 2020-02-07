@@ -29,7 +29,7 @@ These are the versions of the tools used:
 **1. Clone the repository.**
 
 ```
-git clone https://github.com/fgarciachipi/wordpress-xdebug.git
+git clone https://github.com/danielfloris/wordpress-xdebug.git
 ```
 
 ![git clone](https://github.com/fgarciachipi/wordpress-xdebug/wiki/images/gitclone.PNG)
@@ -60,7 +60,7 @@ After the container is running you can open the folder `wordpress-xdebug` in the
 
 There is a [launch.json](https://github.com/fgarciachipi/wordpress-xdebug/blob/master/.vscode/launch.json) file inside the folder `.vscode` with the debug configuration. Add the breakpoints in the code and go to the Debug Menu (Ctrl + Shift + D) and click on the Start Debugging button.
 
-![xdebug](https://github.com/fgarciachipi/wordpress-xdebug/wiki/images/xdebug.png)
+![xdebug](https://github.com/danielfloris/wordpress-xdebug/wiki/images/xdebug.png)
 
 
 ## Final notes :coffee:
